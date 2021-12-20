@@ -11,7 +11,7 @@ body{
     background-repeat: no-repeat;/*👉 sirve para que no se repita la img en caso no entre*/
     background-size: cover;/*👉sirve para que entre en toda el espacio de la cja*/
     background-attachment: fixed;
-    background-image: url("https://allegra.flowersetcfresno.com/pic/6221173_full-fondos-de-pantalla-hd-diabolik-lovers-diabolik-lovers-wallpapers-73-images.jpg");
+    background-image: url("https://fondosmil.com/fondo/4654.jpg");
 }
 /* MENU  */
 .menu_responsive{
@@ -27,17 +27,20 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(206, 105, 206);
-    box-shadow: #1c1b1d 20px;
+    background-color: rgba(128, 255, 0, 0.924);
+    box-shadow: 0 0 10px black;
 }
 
 header .logo{
     color: white;
     font-weight: 700;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 2.5em;
+    -webkit-text-stroke: rgb(255, 41, 155) 1px;
     text-transform: uppercase;
     letter-spacing: 2px;
+    font-family: 'Merienda One', cursive;
+    text-shadow: 0 0 5px rgb(0, 0, 0);
 }
 header ul{
     display: flex;
@@ -49,21 +52,30 @@ header ul li{
     margin-left: 20px;
 }
 header ul li a {
-    font-weight: 500;
+    font-weight: 700;
     text-decoration: none;
     padding: 6px 15px;
     color: white;
     border-radius:20px;
+    font-family: 'Chilanka', cursive;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 4px;
 }
 header ul li a:hover,
 header ul li a.active{
     background-color: white;
-    color: #2b1055;
+    color: #b30059;
 }
+.main {
+    background-color: rgba(0, 0, 0, 0.575);
+}
+
 /* footer */
 footer{
-    background-color: #e02875;
-    padding-bottom: 12px;
+    background-color: rgba(128, 255, 0, 0.931);
+    padding-bottom: 0.1px;
+    
 }
 .footer-content{width: 92%;
     margin: auto ;
@@ -81,9 +93,14 @@ footer{
 .brand{
     font-weight: 700;
     font-size: 40px;
+    font-family: 'Merienda One', cursive;
+    text-shadow: 0 0 5px rgb(0, 0, 0);
 }
 .brand+p{
-    font-weight: 500;
+    font-weight: 600;
+    font-family: 'Chilanka', cursive;
+    font-size: 20px;
+    text-shadow: 0 0 5px rgb(0, 0, 0);
 }
 .social-media{
     width: 50%;
@@ -104,7 +121,7 @@ border: 1px solid #fff;
 }
 
 .social-media-icon:hover{
-    background: rgba(0, 0, 0, 0.662);
+    background: rgba(219, 0, 128, 0.662);
     color: #ffffff;
 }
 
