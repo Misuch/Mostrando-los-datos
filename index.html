@@ -4,70 +4,94 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="assets/img/bxl-gitlab.svg">
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <link href="assets/css/styles.css" rel='stylesheet'>
     <title>Document</title>
 </head>
 <body>
     <!----------------Menú---------------------->
     <header>
-        <div>
-            <div>
-                <img src="" id="Logo">
-            </div>
-            <div>
-                <h1>Colocar el titulo aqui</h1>
-            </div>
-            <div>
-                <nav> 
-                    <ul class="menu_hidden" id="nav-menu">
-                        <li><a href="">Inicio</a></li>
-                        <li><a href="">Sobre Nosotros</a></li>
-                        <li><a href="">Contacto</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
+        <a href="#"class="logo">AnimeWiKi</a> 
+        <img src="assets/img/menu-regular-24.png" alt="menu" class="menu_responsive" id="menu">
+        <ul class="menu_hidden" id="nav-menu">
+
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">about</a></li>
+            <li> <a href="#">work</a></li>
+            <li><a href="#">contact</a></li>
+            
+        </ul>
+       
+        
     </header>
+    
     <!--------------Cuerpo--------------------->
-    <section>
-        <div>
+    <main>
+        <!-- buscador -->
+        <div class="search_content">
             <input type="text" id="inputSearch" placeholder="¿Qué deseas buscar?">
+            <img src="assets/img/bx-search-alt.svg" alt="search">
         </div>
+
+        <!-- filtos -->
         <div>
-            <div>
-                <h2>Filtro</h2>
+            <div class="filters_title">
+                <h2>Filtros</h2>
+                <button class="close_filters"><img src="assets/img/arriba.svg" alt=""></button>
+                <button class="open_filters"><img src="assets/img/abajo.svg" alt=""></button>
             </div>
-            <div>
-                <div>
-                    <a href="" class="category_item" category="Todo">Todo</a>
-                    <a href="" class="category_item" category="Generos">Géneros</a>
-                    <a href="" class="category_item" category="ExCluir">Excluir Géneros</a>
+            <div class="filters_content">
+                <div class="filters-title">
+                    <h3>Filtros</h3>
+                    <button id="btn-arriba"><img  src="assets/img/arriba.svg" alt="arriba"></button>
+                    <button id="btn-abajo"><img src="assets/img/abajo.svg" alt="abajo"></button>
                 </div>
-                <div>
-                    <div class=" ">
-                        <div class=" ">
-                            <img src=" ">
-                            <div class="info">
-                                <h3>Colocar nombre</h3>
-                            </div>
-                        </div>
-                    </div>
+                <div class="filters-btn">
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
+                    <button id=""></button>
                 </div>
             </div>
         </div>
-    </section>
-    <footer>
-        <div class="">
-            <div class="">
-                <h2 class=""></h2>
-                <p>somos expertos en cuidar tus sueños</p>
+
+        <!-- cards -->
+        <div class="content-card">
+
+        </div>
+
+    </main>
+    <!-------------- footer----------------------------->
+    <footer id="contacto">
+        <div class="contenedor footer-content">
+            <div class="contact-us">
+                <h2 class="brand">AnimeWiKi</h2>
+                <p>contactese con nosotros con nuestras redes sociales</p>
             </div>
-            <div class="">
-                <a href="https://es-la.facebook.com/" class="social-media-icon" target="BLANK"><i class="bx bxl-facebook" id="i"></i></a>
-                <a href="https://www.instagram.com/" class="social-media-icon" target="BLANK"><i class="bx bxl-instagram" id="i"></i></a>
-                <a href="https://www.youtube.com/" class="social-media-icon" target="BLANK"><i class="bx bxl-youtube" id="i"></i> </a>   
+
+            <div class="social-media">
+            <a href="https://es-la.facebook.com/" class="social-media-icon" target="BLANK"><i class="bx bxl-facebook" id="i"></i></a>
+            <a href="https://www.instagram.com/" class="social-media-icon" target="BLANK"><i class="bx bxl-instagram" id="i"></i></a>
+            <a href="https://www.youtube.com/" class="social-media-icon" target="BLANK"><i class="bx bxl-youtube" id="i"></i> </a>   
             </div>
         </div>
-        <div class=""></div>
-    </footer>
+
+        <div class="line"></div>
+        </footer>
+    <script src="assets/js/js.js"></script>
 </body>
 </html>
