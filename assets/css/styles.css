@@ -3,7 +3,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: "Poppins";
+    font-family: "titular";
 }
 body{
 
@@ -11,8 +11,19 @@ body{
     background-repeat: no-repeat;/*👉 sirve para que no se repita la img en caso no entre*/
     background-size: cover;/*👉sirve para que entre en toda el espacio de la cja*/
     background-attachment: fixed;
-    background-image: url("https://allegra.flowersetcfresno.com/pic/6221173_full-fondos-de-pantalla-hd-diabolik-lovers-diabolik-lovers-wallpapers-73-images.jpg");
 }
+/* FUENTES */
+@font-face{
+    font-family: "Escrito";
+    src: url(../fonts/little_comet/Little\ Comet\ Demo\ Version.otf);
+}
+
+@font-face{
+    font-family: "titular";
+    src: url(../fonts/delight_candles/Delight\ Candles\ .ttf);
+}
+
+
 /* MENU  */
 .menu_responsive{
     display: none;
@@ -27,17 +38,17 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(206, 105, 206);
-    box-shadow: #1c1b1d 20px;
+    background-color: #8ab3f0;
+    box-shadow: #727174 0.5px 0.5px 7px;
 }
 
 header .logo{
+    font-family: "Escrito";
     color: white;
-    font-weight: 700;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3em;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 6px;
 }
 header ul{
     display: flex;
@@ -58,12 +69,13 @@ header ul li a {
 header ul li a:hover,
 header ul li a.active{
     background-color: white;
-    color: #2b1055;
+    color: #8ab3f0;
 }
 /* footer */
 footer{
-    background-color: #e02875;
+    background-color: #8ab3f0;
     padding-bottom: 12px;
+    font-family: "Escrito";
 }
 .footer-content{width: 92%;
     margin: auto ;
@@ -81,9 +93,11 @@ footer{
 .brand{
     font-weight: 700;
     font-size: 40px;
+    letter-spacing: 10px;
 }
 .brand+p{
     font-weight: 500;
+    font-family: "Poppins";
 }
 .social-media{
     width: 50%;
@@ -104,8 +118,8 @@ border: 1px solid #fff;
 }
 
 .social-media-icon:hover{
-    background: rgba(0, 0, 0, 0.662);
-    color: #ffffff;
+    background: rgba(243, 243, 243, 0.282);
+    color: #8ab3f0;
 }
 
 .social-media-icon i{
@@ -121,20 +135,81 @@ border: 1px solid #fff;
     background-color: #fff;
     margin-bottom: 60px;
 }
+/* buscador */
+.search_content{
+    background-color: rgb(169, 131, 240);
+    padding: 15px 20px;
+    width: 94%;
+    margin:20px auto ;
+    border-radius: 15px;
+    display: flex ;
 
+}
+.search_content input{
+    width: 96%;
+    padding: 5px;
+    border: #ffffff 1.5px solid;
+    outline:none;
+    border-radius: 10px;
+    font-size: 16px;
+    color: rgb(124, 124, 124);
+}
+.search_content img{
+    margin-left:14px;
+}
+/* FILTROS */
+.filters_content{
+    margin:50px auto;
+}
+.filters-title{
+    background-color: rgb(169, 131, 240);
+    margin: 25px  25px 4px;
+    width: 200px;
+    display: flex;
+    border-radius: 5px;
+}
+.filters_content .filters-title h3{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+
+}
+.filters_content .filters-title button{
+    justify-content: center;
+    background-color:rgba(149, 173, 253, 0);
+    border: none;
+    padding:0 10px;
+}
+/* btn de filtros */
+.filters-btn{
+    background-color: rgb(182, 150, 240);
+    width: 90%;
+    margin: auto;
+    display:none;
+    flex-wrap: wrap;
+    padding: 15px;
+
+}
+.filters-btn button{
+    background-color: rgba(211, 206, 220, 0);
+    padding: 15px;
+    color: white;
+    padding: 10px 20px;
+    margin:5px;
+    border: none;
+}
+.filters-btn button:hover{
+    background-color: rgba(255, 255, 255, 0.46);
+    color: rgb(162, 168, 223);
+    border-radius: 10px;
+}
 @media screen and (max-width:860px) {
-    .contenedor--slider .item-slide img{
-        height: 80vw;
-    }
     
-    .contenedor--slider{
-        width: 100%;
-        overflow: hidden;
-    }
+    
     
     .menu_responsive{
         display: block;
-        background-color: rgba(54, 49, 49, 0.719);
+        background-color: rgb(169, 131, 240);
         padding: 5px;
         border-radius: 10px;
     }
@@ -145,7 +220,7 @@ border: 1px solid #fff;
         width: 50%;
         height: 100vh;
         flex-direction: column;
-        background: rgba(46, 42, 42, 0.815);
+        background:rgb(169, 131, 240) ;
         transform: translateX(-100%);
         transition: .9s ease-out;
         z-index: 100;
@@ -170,6 +245,7 @@ border: 1px solid #fff;
         padding: 30px 0px;
         letter-spacing: 1pt;
     }
+
 }
 
 @media screen and (max-width:600px) {
@@ -190,9 +266,6 @@ border: 1px solid #fff;
         font-size:1em;
     }
 
-    .contenedor--slider .item-slide img{
-        height: 80vw;
-    }
 }
 @media screen and (max-width:400px) {
    
@@ -202,7 +275,10 @@ border: 1px solid #fff;
     .contact-us h2{
         font-size: 25px;
     }
-    
+    .filters-btn button{
+        font-size: 12px;
+        padding: 3px;
+    }
 }
 
 @media screen and (max-width:380px) {
@@ -211,7 +287,7 @@ border: 1px solid #fff;
         padding: 30px 18px;
     }
     header  .logo{
-        font-size: 25px;
+        font-size: 40px;
     }
 }
 @media screen and (max-width:200px) {
