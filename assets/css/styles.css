@@ -60,17 +60,25 @@ header ul li{
     margin-left: 20px;
 }
 header ul li a {
-    font-weight: 500;
+    font-weight: 700;
     text-decoration: none;
     padding: 6px 15px;
     color: white;
     border-radius:20px;
+    font-family: 'Chilanka', cursive;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 4px;
 }
 header ul li a:hover,
 header ul li a.active{
     background-color: white;
     color: #8ab3f0;
 }
+/* .main {
+    background-color: rgba(0, 0, 0, 0.575);
+} */
+
 /* footer */
 footer{
     background-color: #8ab3f0;
