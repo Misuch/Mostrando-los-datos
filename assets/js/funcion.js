@@ -27,21 +27,23 @@ $(document).ready(function(){
 
     // api de json  --- agregando img
     
-    for(i=0;i<12;i++){
+    
         
-        let number =Math.round(Math.random()*220) ;
-        console.log(number)
+        // let number =Math.round(Math.random()*220) ;
+        // console.log(number)
         $.ajax({
         type:"GET",
-        url:"../data/animeData.json",
+        url:"animeData.json",
         // url:"https://picsum.photos/id/"+number+"/info",
         dataType:"json",
         async:true,
         success:function(data){ 
             showDATA(data)
+        },  error:function(e){ 
+            console.log(e)
         }
         })
-    }
+    
    
     // 
 

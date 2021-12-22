@@ -203,6 +203,7 @@ border: 1px solid #fff;
     color: rgb(162, 168, 223);
     border-radius: 10px;
 }
+/* responsive */
 @media screen and (max-width:860px) {
     
     
