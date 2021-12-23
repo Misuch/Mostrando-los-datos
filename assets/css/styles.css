@@ -162,7 +162,9 @@ border: 1px solid #fff;
     font-size: 16px;
     color: rgb(124, 124, 124);
 }
-.search_content img{
+.search_content button{
+    background-color: transparent;
+    border: none;
     margin-left:14px;
 }
 /* FILTROS */
@@ -211,7 +213,41 @@ border: 1px solid #fff;
     color: rgb(162, 168, 223);
     border-radius: 10px;
 }
+/* galeria */
+#gallery{
+    font-family: "Escrito";
+    background-color: #8ab3f052;
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 80px  auto  ;
+    text-align: center;
+    border: 6px dashed white;
+    justify-content: center;
+    
+    
+}
+#gallery  .items-g h3{
+    color: rgb(211, 75, 238);
+    font-family: "Poppins";
+    font-size: 13px;
+    padding: 8px 4px; 
+}
+ .items-g {
+    border: 5   px dotted #b596f0ad;
+    display: block;
+    margin: 50px 36.5px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 25px;
+    box-shadow: 6px 10px 15px rgba(123, 187, 182, 0.527);
+    overflow: hidden;
+}
+#gallery img{
+    width: 230px;
+    height: 270px;
+}
 /* responsive */
+
 @media screen and (max-width:860px) {
     
     
