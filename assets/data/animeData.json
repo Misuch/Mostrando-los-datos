@@ -1,116 +1,119 @@
-
 [
   {
-    "estudio" : " Studio DEEN" ,
+    "estudio" : "studio deen",
     "generos" : [
-      " Comedia " ,
-      " Acción" ,
-      " Romance " ,
-      " Escolar " ,
-      " Aventura" 
+      "comedia",
+      "accion",
+      "romance",
+      "escolar",
+      "aventura" 
     ],
-    "description" : " La historia gira en torno a Ranma Saotome, un joven de 16 años que fue entrenado en las artes marciales desde que era pequeño. Como consecuencia de un accidente durante uno de sus entrenamientos en el que cayó a un estanque encantado en los estanques de Jusenkyo, llamado Estanque de la mujer pelirroja ahogada . " ,
+    "description" : "la historia gira en torno a Ranma Saotome, un joven de 16 años que fue entrenado en las artes marciales desde que era pequeño. Como consecuencia de un accidente durante uno de sus entrenamientos en el que cayó a un estanque encantado en los estanques de Jusenkyo, llamado Estanque de la mujer pelirroja ahogada.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/13/76023.jpg " ,
-      "texto" : "Ranma ½"
+      "enlace" : "https://cdn.myanimelist.net/images/anime/13/76023.jpg",
+      "texto" : "ranma ½"
     },
-    "start_date" : " 15 de abril de 1989 "
+    "start_date" : "15 de abril de 1989"
   },
 
-
   {
-    "estudio" : " sunrise " ,
+    "estudio" : "sunrise" ,
     "generos" : [
-      " Acción",
-      "Fantasía",
-      "Isekai inverso",
-      "Jidaigeki",
-      "Comedia",
-      "Aventura",
-     " Romance "
+      "accion",
+      "fantasia",
+      "isekai inverso",
+      "jidaigeki",
+      "comedia",
+      "aventura",
+      "romance"
     ],
-    "description" : "  En esa época, la adolescente proveniente del siglo XXI, Kagome Higurashi se encuentra con Inuyasha, un han'yō que ansiaba poseer la Shikon no Tama (四魂の玉? perla de las cuatro almas) para convertirse en un yōkai —o demonio de raza pura—, pero que, al enterarse de que Kagome causó la fragmentación de esta, debe aventurarse a recuperarla parte por parte. Kagome decide acompañar a Inuyasha en la búsqueda de los fragmentos, por lo que deberá alternar entre una vida cotidiana en su época original y recuperar la Shikon no Tama durante su tiempo en el Período Segoku. " ,
+    "description" : "en esa época, la adolescente proveniente del siglo XXI, Kagome Higurashi se encuentra con Inuyasha, un han'yō que ansiaba poseer la Shikon no Tama (四魂の玉? perla de las cuatro almas) para convertirse en un yōkai —o demonio de raza pura—, pero que, al enterarse de que Kagome causó la fragmentación de esta, debe aventurarse a recuperarla parte por parte. Kagome decide acompañar a Inuyasha en la búsqueda de los fragmentos, por lo que deberá alternar entre una vida cotidiana en su época original y recuperar la Shikon no Tama durante su tiempo en el Período Segoku.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/1589/95329.jpg " ,
-      "texto" : " InuYasha "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1589/95329.jpg",
+      "texto" : "inuYasha"
     },
-    "start_date" : "16 de octubre de 2000 "
+    "start_date" : "16 de octubre de 2000"
   },
 
-
   {
-    "estudio" : " AT-X" ,
+    "estudio" : "at-x" ,
     "generos" : [
-      "Sobrenatural", "Shojo"," Harem"," Vampiros", "Escolar"
+      "sobrenatural", 
+      "shojo",
+      "harem",
+      "vampiros",
+      "escolar"
     ],
-    "description" : "Yui Komori es una chica de instituto normal y corriente si no fuera por el hecho de que suele vivir experiencias sobrenaturales como sentir presencias y ver espíritus. Durante su segundo año de instituto, se tiene que cambiar de escuela debido al trabajo de su padre, por lo que es transferida a una conocida escuela nocturna donde estudian artistas y celebridades: la Academia “Ryotei”. En el nuevo instituto se rumora que entre el alumnado hay vampiros. Por si las cosas no fueran aún más raras, nuestra protagonista termina conviviendo en casa de los hermanos Sakamaki: Shu, Reiji, Ayato, Kanato, Laito y Subaru... quienes en realidad no son humanos. " ,
+    "description" : "yui Komori es una chica de instituto normal y corriente si no fuera por el hecho de que suele vivir experiencias sobrenaturales como sentir presencias y ver espíritus. Durante su segundo año de instituto, se tiene que cambiar de escuela debido al trabajo de su padre, por lo que es transferida a una conocida escuela nocturna donde estudian artistas y celebridades: la Academia “Ryotei”. En el nuevo instituto se rumora que entre el alumnado hay vampiros. Por si las cosas no fueran aún más raras, nuestra protagonista termina conviviendo en casa de los hermanos Sakamaki: Shu, Reiji, Ayato, Kanato, Laito y Subaru... quienes en realidad no son humanos.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/9/51989.jpg " ,
-      "texto" : " Diabolik Lovers "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/9/51989.jpg",
+      "texto" : "diabolik lovers "
     },
-    "start_date" : " 16 de Septiembre,2013 "
+    "start_date" : "16 de Septiembre,2013"
   },
 
-
   {
-    "estudio" : " Orange " ,
+    "estudio" : "orange",
     "generos" : [
-      " Comedia " ,
-      " Escolar " ,
-      " Acción "
+      "comedia",
+      "escolar",
+      "accion"
     ],
-    "Description" : " En un mundo donde donde los carnívoros y herbívoros conviven. Si bien comer carne se considera un delito grave, se produce un 'caso de depredación' en el que un estudiante es asesinado en la prestigiosa Academia Cherryton, que es un internado. En la Academia gira la ansiedad y Legoshi el lobo gris, que al contrario de lo que sugiere su 'gran cuerpo' y sus 'colmillos afilados' vive en silencio y sin llamar la atención. Sin embargo, el encuentro con una pequeña estudiante coneja llamada Hal, sacude el corazón de Legoshi. " ,
+    "description" : "en un mundo donde donde los carnívoros y herbívoros conviven. Si bien comer carne se considera un delito grave, se produce un 'caso de depredación' en el que un estudiante es asesinado en la prestigiosa Academia Cherryton, que es un internado. En la Academia gira la ansiedad y Legoshi el lobo gris, que al contrario de lo que sugiere su 'gran cuerpo' y sus 'colmillos afilados' vive en silencio y sin llamar la atención. Sin embargo, el encuentro con una pequeña estudiante coneja llamada Hal, sacude el corazón de Legoshi.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/1234/102008.jpg " ,
-      "texto" : " Beastars"
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1234/102008.jpg",
+      "texto" : "beastars"
     },
-    "start_date" : " 8 de abril de 2016, 02:28 (JST) "
+    "start_date" : "8 de abril de 2016, 02:28 (JST)"
   },
 
-
   {
-    "estudio" : "TMS Entertainment Telecom Animation Film" ,
-    "generos" : [ "Ciencia ficción"," Drama"," Escolar"," Recuentos de la vida"," Romance"
+    "estudio" : "tms entertainment telecom animation film" ,
+    "generos" : [ 
+      "ciencia_ficcion",
+      "drama",
+      "escolar",
+      "recuentos_de_la_vida",
+      "romance"
     ],
-    "description" : " El primer día de clase, Naho, una chica de 16 años, recibe una misteriosa carta de quien dice ser su yo del futuro, en la que se predice de forma exacta cada cosa que está a punto de pasarle. Además, la remitente le aconseja no llevar a cabo determinadas acciones. Haciendo caso omiso de ella, Naho invita al chico nuevo que acaba de llegar desde Tokio, Kakeru, a salir con sus amigos después del instituto. Pero algo terrible le ocurre a Kakeru ese día. Algo que podría no haber sucedido si hubiera vuelto antes a casa. Sabiéndolo, Naho decide comenzar a seguir las instrucciones que recibe desde un mundo futuro en el que Kakeru ya no existe. Pero hacer frente al presente sin dejar lugar para el arrepentimiento no resulta tan sencillo como debiera." ,
+    "description" : "el primer día de clase, Naho, una chica de 16 años, recibe una misteriosa carta de quien dice ser su yo del futuro, en la que se predice de forma exacta cada cosa que está a punto de pasarle. Además, la remitente le aconseja no llevar a cabo determinadas acciones. Haciendo caso omiso de ella, Naho invita al chico nuevo que acaba de llegar desde Tokio, Kakeru, a salir con sus amigos después del instituto. Pero algo terrible le ocurre a Kakeru ese día. Algo que podría no haber sucedido si hubiera vuelto antes a casa. Sabiéndolo, Naho decide comenzar a seguir las instrucciones que recibe desde un mundo futuro en el que Kakeru ya no existe. Pero hacer frente al presente sin dejar lugar para el arrepentimiento no resulta tan sencillo como debiera.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/manga/2/153742.jpg" ,
-      "texto" : "Orange "
+      "enlace" : "https://cdn.myanimelist.net/images/manga/2/153742.jpg",
+      "texto" : "orange"
     },
     "start_date" : "3 de julio de 2016"
   },
 
-
   {
-    "estudio" : "Production I.G " ,
+    "estudio" : "production i.g",
     "generos" : [
-      " Comedia " ,
-      " Shojo " ,
-      " Recuentos de la vida " ,
-      " Romance "
+      "comedia",
+      "shojo",
+      "recuentos_de_la_vida",
+      "romance"
     ],
-    "description" :"Futaba Yoshioka quiere 'reiniciar' su vida. En secundaria, las niñas la excluían por su popularidad entre los chicos. El único muchacho que le gustaba, Kou Tanaka, se mudó antes de que ella pudiera decirle lo que sentía. Ahora en preparatoria, está decidida a ser todo lo impropio de una dama para que sus nuevas amigas no tengan celos de ella. Mientras vive su nueva vida, se reencuentra con Kou, solo que ahora usa el nombre de Kou Mabuchi y tiene una actitud fría y distante. Él le dice que sentía lo mismo por ella en secundaria, pero que no pueden regresar a lo que fue. Ella se encuentra perdida entre los recuerdos del antiguo Kou con el actual, divagando en cuales son sus sentimientos actuales hacia este nuevo Kou." ,
+    "description" :"futaba Yoshioka quiere 'reiniciar' su vida. En secundaria, las niñas la excluían por su popularidad entre los chicos. El único muchacho que le gustaba, Kou Tanaka, se mudó antes de que ella pudiera decirle lo que sentía. Ahora en preparatoria, está decidida a ser todo lo impropio de una dama para que sus nuevas amigas no tengan celos de ella. Mientras vive su nueva vida, se reencuentra con Kou, solo que ahora usa el nombre de Kou Mabuchi y tiene una actitud fría y distante. Él le dice que sentía lo mismo por ella en secundaria, pero que no pueden regresar a lo que fue. Ella se encuentra perdida entre los recuerdos del antiguo Kou con el actual, divagando en cuales son sus sentimientos actuales hacia este nuevo Kou.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/8/64813.jpg " ,
-      "texto" : " Ao Haru Ride "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/8/64813.jpg",
+      "texto" : "ao haru ride"
     },
-    "start_date" : " 10 de abril de 2016, 02:25 (JST) "
+    "start_date" : "10 de abril de 2016, 02:25 (JST)"
   },
 
 
 
   {
-    "estudio" : "TMS Entertainment V1 Studio" ,
+    "estudio" : "tms entertainment v1 studio",
     "generos" : [
-      " Comedia " ,
-      " Fantasía " ,
-      " Romance" ,
-      " Sobrenatural "
+      "comedia",
+      "fantasia",
+      "romance",
+      "sobrenatural"
     ],
-    "description" : "La historia comienza con Nanami Momozono, una chica que ha perdido su casa a causa de las deudas del juego de azar de su padre y ha sido abandonada por este. Al encontrarse en el parque sin casa o lugar adónde ir, conoce a un joven y lo 'salva' ya que estaba siendo amenazado por un perro, a cambio de dicho acto, el joven le concede su propiedad y el derecho de ser el 'nuevo´ dios de la tierra. Cuando Nanami va a la propiedad al principio cree que es una broma ya que resulta ser un templo, pero todo cambia cuando conoce a Tomoe el familiar del antiguo dios de la tierra que no estará dispuesto a aceptar tan fácilmente a Nanami como su nueva ama, siguiendo enojado por el abandono de su antiguo amo. Ahora Nanami debe afrontar un nuevo mundo donde ella tendrá que probar tanto al mundo de los dioses como ella misma " ,
+    "description" : "la historia comienza con Nanami Momozono, una chica que ha perdido su casa a causa de las deudas del juego de azar de su padre y ha sido abandonada por este. Al encontrarse en el parque sin casa o lugar adónde ir, conoce a un joven y lo 'salva' ya que estaba siendo amenazado por un perro, a cambio de dicho acto, el joven le concede su propiedad y el derecho de ser el 'nuevo´ dios de la tierra. Cuando Nanami va a la propiedad al principio cree que es una broma ya que resulta ser un templo, pero todo cambia cuando conoce a Tomoe el familiar del antiguo dios de la tierra que no estará dispuesto a aceptar tan fácilmente a Nanami como su nueva ama, siguiendo enojado por el abandono de su antiguo amo. Ahora Nanami debe afrontar un nuevo mundo donde ella tendrá que probar tanto al mundo de los dioses como ella misma",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/8/69187.jpg " ,
-      "texto" : "Kamisama Hajimemashita"
+      "enlace" : "https://cdn.myanimelist.net/images/anime/8/69187.jpg",
+      "texto" : "kamisama hajimemashita"
     },
     "start_date" : "5 de enero de 2015"
   },
@@ -118,380 +121,388 @@
 
 
   {
-    "estudio" : "J.C.Staff " ,
+    "estudio" : "j.c.staff " ,
     "generos" : [
-      "Fantasía"," Aventura", "Comedia" ,"Romance"," Isekai"
+      "fantasia",
+      "aventura",
+      "comedia",
+      "romance",
+      "isekai"
     ],
-    "description" : "En un mundo donde existe la magia y existe cierta desigualdad social entre la nobleza y los plebeyos ya que los primeros son gente que puede utilizar magia y no así los plebeyos, quienes son vistos como inferiores. En el reino de Tristain la nobleza asiste en su adolescencia a la Academia de magia, donde aprenden a controlar y perfeccionar su poder, sin embargo Louise Françoise Le Blanc de La Vallière, también llamada por sus compañeros de la academia de magia Louise la Cero (ゼロのルイズ Zero no Louise?), no es capaz de realizar ningún hechizo sin que haya una explosión a pesar de provenir de una familia noble de reconocido linaje. " ,
+    "description" : "en un mundo donde existe la magia y existe cierta desigualdad social entre la nobleza y los plebeyos ya que los primeros son gente que puede utilizar magia y no así los plebeyos, quienes son vistos como inferiores. En el reino de Tristain la nobleza asiste en su adolescencia a la Academia de magia, donde aprenden a controlar y perfeccionar su poder, sin embargo Louise Françoise Le Blanc de La Vallière, también llamada por sus compañeros de la academia de magia Louise la Cero (ゼロのルイズ Zero no Louise?), no es capaz de realizar ningún hechizo sin que haya una explosión a pesar de provenir de una familia noble de reconocido linaje.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/2/75559.jpg" ,
-      "texto" : " Zero no Tsukaima "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/2/75559.jpg",
+      "texto" : "zero no tsukaima"
     },
-    "start_date" : "27 de septiembre de 2007 "
+    "start_date" : "27 de septiembre de 2007"
   },
 
 
   {
-    "estudio" : "Toei Animation" ,
+    "estudio" : "toei animation" ,
     "generos" : [
-     " Acción"," Aventuras"," Fantasía"
+     "accion",
+     "aventuras",
+     "fantasia"
     ],
-    "Description" : "Dragon Ball (ドラゴンボール lit. Bola de dragón/Esfera del dragón?) es un manga escrito e ilustrado por Akira Toriyama. Fue publicado originalmente en la revista Shōnen Jump, de la editorial japonesa Shūeisha, entre 1984 y 1995.1​2​ Su trama describe las aventuras de Gokū, un guerrero saiyajin, cuyo fin es proteger a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad. Conforme transcurre la trama, conoce a otros personajes que le ayudan en este propósito. El nombre de la serie proviene de unas esferas mágicas que al ser reunidas invocan a un dragón que concede deseos. En varias ocasiones resultan útiles tanto para Gokū y sus amigos como para la humanidad, aunque también son procuradas de forma constante por algunos seres malignos." ,
+    "description" : "dragon Ball (ドラゴンボール lit. Bola de dragón/Esfera del dragón?) es un manga escrito e ilustrado por Akira Toriyama. Fue publicado originalmente en la revista Shōnen Jump, de la editorial japonesa Shūeisha, entre 1984 y 1995.1​2​ Su trama describe las aventuras de Gokū, un guerrero saiyajin, cuyo fin es proteger a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad. Conforme transcurre la trama, conoce a otros personajes que le ayudan en este propósito. El nombre de la serie proviene de unas esferas mágicas que al ser reunidas invocan a un dragón que concede deseos. En varias ocasiones resultan útiles tanto para Gokū y sus amigos como para la humanidad, aunque también son procuradas de forma constante por algunos seres malignos.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/1035/93674.jpg " ,
-      "texto" : " Dragon Ball "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1035/93674.jpg",
+      "texto" : "dragon ball"
     },
-    "start_date" : " 5 de julio de 2015"
+    "start_date" : "5 de julio de 2015"
   },
 
   {
-    "estudio" : " Studio DEEN " ,
+    "estudio" : "dtudio deen",
     "generos" : [
-      "Romance"," Fantasía oscura", "Sobrenatural"
+      "romance",
+      "fantasia_oscura", 
+      "sobrenatural"
     ],
-    "description" : "Vampire Knight (ヴァンパイア騎士 Vanpaia Naito?, lit. Caballero vampiro) es un manga shōjo escrita por Matsuri Hino. Se estrenó en enero de 2005 en la revista LaLa y finalizó oficialmente en mayo de 2013. Hakusensha recopiló y publicó los capítulos en volúmenes recopilados, concluyendo con diecinueve volúmenes publicados en Japón. El manga ha tenido éxito internacional, licenciándose para su publicación en español, francés, italiano, portugués, y su edición en Argentina por parte de LARP Editores que se lanzó en diciembre de 2010. La serie de manga está autorizada en inglés por Viz Media, que ha lanzado los diecinueve volúmenes. La adaptación al inglés se estrenó en el número de julio de 2006 de la revista Shojo Beat de Viz, y los volúmenes recopilados se publican trimestralmente." ,
+    "description" : "vampire Knight (ヴァンパイア騎士 Vanpaia Naito?, lit. Caballero vampiro) es un manga shōjo escrita por Matsuri Hino. Se estrenó en enero de 2005 en la revista LaLa y finalizó oficialmente en mayo de 2013. Hakusensha recopiló y publicó los capítulos en volúmenes recopilados, concluyendo con diecinueve volúmenes publicados en Japón. El manga ha tenido éxito internacional, licenciándose para su publicación en español, francés, italiano, portugués, y su edición en Argentina por parte de LARP Editores que se lanzó en diciembre de 2010. La serie de manga está autorizada en inglés por Viz Media, que ha lanzado los diecinueve volúmenes. La adaptación al inglés se estrenó en el número de julio de 2006 de la revista Shojo Beat de Viz, y los volúmenes recopilados se publican trimestralmente.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/3/7327.jpg" ,
-      "texto" : " Vampire Knight "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/3/7327.jpg",
+      "texto" : "vampire knight"
     },
-    "start_date" : " 7 de abril del 2008"
+    "start_date" : "7 de abril del 2008"
   },
 
 
   
   
   {
-    "estudio" : "  LIDEN FILMS  " ,
+    "estudio" : "liden films" ,
     "generos" : [
-      " Acción" ,
-      " Comedia",
-      " Drama ",
-      " Escolar",
-      " Ciencia ficción ",
-      "Romance"
+      "accion" ,
+      "comedia",
+      "drama",
+      "escolar",
+      "ciencia_ficcion",
+      "romance"
       
     ],
-    "Description" : "Tokyo Revengers (東京卍リベンジャーズ Tōkyō manji ribenjāzu?) es una serie de manga escrita e ilustrada por Ken Wakui, publicada en el semanario Shōnen Magazine de Kōdansha desde marzo de 2017. Una adaptación a serie de anime producida por Liden Films fue estrenada el 10 de abril de 2021. La historia esta inspirada en la propia vida del autor, el cual perteneció a una pandilla real llamada Black Emperor, la cual también utilizaba el kanji 卍 (まんじ) como logo. El propio autor cuenta que su obra va de viajes en el tiempo puesto que él desconoce como funcionan las pandillas en la actualidad, y prefiere hablar de las de principios de los años dos mil.",
+    "description" : "tokyo Revengers (東京卍リベンジャーズ Tōkyō manji ribenjāzu?) es una serie de manga escrita e ilustrada por Ken Wakui, publicada en el semanario Shōnen Magazine de Kōdansha desde marzo de 2017. Una adaptación a serie de anime producida por Liden Films fue estrenada el 10 de abril de 2021. La historia esta inspirada en la propia vida del autor, el cual perteneció a una pandilla real llamada Black Emperor, la cual también utilizaba el kanji 卍 (まんじ) como logo. El propio autor cuenta que su obra va de viajes en el tiempo puesto que él desconoce como funcionan las pandillas en la actualidad, y prefiere hablar de las de principios de los años dos mil.",
     "titulo": {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/1884/114790.jpg" ,
-      "texto" : " Tokyo Revengers "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1884/114790.jpg",
+      "texto" : "tokyo revengers"
     },
-    "start_date" : " 10 de abril 2021 "
+    "start_date" : "10 de abril 2021"
   },
 
   {
-    "estudio" : "Pierrot " ,
+    "estudio" : "pierrot",
     "generos" : [
-      " Horror " ,
-      " Drama " ,
-      " Romance " ,
-      " Acción " ,
-      " Thriller ",
-      " Fantasía oscura"
+      "horror",
+      "drama",
+      "romance",
+      "accion",
+      "thriller",
+      "fantasia_oscura"
     ],
     
-    "description" : "La ciudad de Tokio vive atemorizada por los atroces crímenes cometidos por los Ghouls, unas misteriosas criaturas que se ocultan entre sus habitantes y se alimentan de carne humana,Kaneki Ken, un joven y tímido universitario sobrevive a una operación de trasplante de órganos tras ser atacado y casi devorado por Rize una chica de quien se encontraba enamorado; tras abandonar el hospital Kaneki sufre un extraño proceso de metamorfosis que provocará un inesperado giro en su vida, los órganos trasplantados pertenecían al ghoul Rize que resulto muerta durante el ataque... ahora, mitad humano y mitad Ghoul tendrá que aprender a vivir de nuevo. " ,
+    "description" : "la ciudad de Tokio vive atemorizada por los atroces crímenes cometidos por los Ghouls, unas misteriosas criaturas que se ocultan entre sus habitantes y se alimentan de carne humana,Kaneki Ken, un joven y tímido universitario sobrevive a una operación de trasplante de órganos tras ser atacado y casi devorado por Rize una chica de quien se encontraba enamorado; tras abandonar el hospital Kaneki sufre un extraño proceso de metamorfosis que provocará un inesperado giro en su vida, los órganos trasplantados pertenecían al ghoul Rize que resulto muerta durante el ataque... ahora, mitad humano y mitad Ghoul tendrá que aprender a vivir de nuevo.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/5/64449.jpg" ,
-      "texto" : " Tokyo Ghoul "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+      "texto" : "tokyo ghoul"
     },
-    "start_date" : " 9 de octubre de 2018 "
+    "start_date" : "9 de octubre de 2018"
   },
 
   {
-    "estudio" : " Toei Animation " ,
+    "estudio" : "toei animation",
     "generos" : [
-      " Drama ",
-      " Recuentos de la vida "
+      "drama",
+      "recuentos_de_la_vida"
     ],
     
-    "description" : " Candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; abandonada de pequeña, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida. Una popular serie, basada en un cómic, que seguía la evolución de la desdichada Candy, desde su infancia en el orfanato hasta su adolescencia y madurez.Las diferencias entre el anime y el manga son claras, a parte de la censura que siempre ha habido y los problemas entre las autoras, infantilizaron varias cosas como añadirle un compañero animal a Candy llamado Clint, o no profundizar tanto en la relación de entre Candy y Albert, o los sentimientos de Archie o Stear que en el manga sobrepasan a los de la serie." ,
+    "description" : "candy es una niña huérfana a la que le suelen ocurrir numerosas desgracias; abandonada de pequeña, no ha tenido suerte en los hogares de acogida y siempre se enamora sin ser correspondida. Una popular serie, basada en un cómic, que seguía la evolución de la desdichada Candy, desde su infancia en el orfanato hasta su adolescencia y madurez.Las diferencias entre el anime y el manga son claras, a parte de la censura que siempre ha habido y los problemas entre las autoras, infantilizaron varias cosas como añadirle un compañero animal a Candy llamado Clint, o no profundizar tanto en la relación de entre Candy y Albert, o los sentimientos de Archie o Stear que en el manga sobrepasan a los de la serie.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/4/35051.jpg " ,
-      "texto" : "Candy Candy "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/4/35051.jpg",
+      "texto" : "candy candy"
     },
-    "start_date" : " 1 de octubre de 1976 "
+    "start_date" : "1 de octubre de 1976"
   },
 
   {
-    "estudio" : "Madhouse",
+    "estudio" : "madhouse",
     "generos" : [
-      " Misterio " ,
-      " Thriller",
-      "Sobrenatural"
+      "misterio",
+      "thriller",
+      "sobrenatural"
     ],
   
-    "description" : "Light Yagami es un joven estudiante que un día encuentra un cuaderno llamado Death Note que tiene una macabra propiedad: si el nombre de una persona aparece escrito en él, morirá. Light decide, entonces, embarcarse en una misión para librar al mundo de todos los criminales. Sin embargo, su plan empieza a torcerse cuando L, un brillante detective, intenta descifrar el misterio que rodea a todas estas muertes. " ,
+    "description" : "light Yagami es un joven estudiante que un día encuentra un cuaderno llamado Death Note que tiene una macabra propiedad: si el nombre de una persona aparece escrito en él, morirá. Light decide, entonces, embarcarse en una misión para librar al mundo de todos los criminales. Sin embargo, su plan empieza a torcerse cuando L, un brillante detective, intenta descifrar el misterio que rodea a todas estas muertes.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/13/8518.jpg" ,
-      "texto" : " Death Note"
+      "enlace" : "https://cdn.myanimelist.net/images/anime/13/8518.jpg",
+      "texto" : "death note"
     },
-    "start_date" : " 3 de octubre de 2006 "
+    "start_date" : "3 de octubre de 2006"
   },
 
   {
-    "estudio" : " MAPPA" ,
+    "estudio" : "mappa",
     "generos" : [
-      " Acción " ,
-      " Drama " ,
-      " Fantasia Oscura" ,
-      " Apocaliptico" 
+      "accion",
+      "drama",
+      "fantasia_oscura",
+      "apocaliptico" 
     ],
   
-    "description" : "La historia se desarrolla en un mundo ficticio en donde la humanidad está al borde de la extinción a causa de unas criaturas humanoides llamadas «titanes», por lo que los sobrevivientes se resguardan en tres enormes murallas que impiden el acceso a los monstruos. Es así que Eren Jaeger, protagonista principal, decide unirse al «Ejército de las murallas» junto con sus amigos de la infancia, con el fin de vengar la muerte de su madre, defender los muros y liberar a la humanidad de los titanes. " ,
+    "description" : "la historia se desarrolla en un mundo ficticio en donde la humanidad está al borde de la extinción a causa de unas criaturas humanoides llamadas «titanes», por lo que los sobrevivientes se resguardan en tres enormes murallas que impiden el acceso a los monstruos. Es así que Eren Jaeger, protagonista principal, decide unirse al «Ejército de las murallas» junto con sus amigos de la infancia, con el fin de vengar la muerte de su madre, defender los muros y liberar a la humanidad de los titanes.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/10/47347.jpg " ,
-      "texto" : " Shingeki no Kyojin"
+      "enlace" : "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "texto" : "shingeki no kyojin"
     },
-    "start_date" : " 7 de abril 2013 "
+    "start_date" : "7 de abril 2013"
   },
 
   {
-    "estudio" : " BONES " ,
+    "estudio" : "bones",
     "generos" : [
-      " Acción " ,
-      " Drama " ,
-      " Escolar ",
-      " Shonen ",
-      "Superheroes"
+      "accion",
+      "drama",
+      "escolar",
+      "shonen",
+      "superheroes"
     ],
   
-    "description" : "La historia tiene lugar en un mundo donde el 80% de la población ha desarrollado «dones», surgiendo así héroes y villanos. ... Midoriya accede y empieza a estudiar en la U.A, donde hace nuevos amigos, conoce otros héroes profesionales, aprende a dominar sus poderes y se enfrenta a auténticos villanos. " ,
+    "description" : "la historia tiene lugar en un mundo donde el 80% de la población ha desarrollado «dones», surgiendo así héroes y villanos. ... Midoriya accede y empieza a estudiar en la U.A, donde hace nuevos amigos, conoce otros héroes profesionales, aprende a dominar sus poderes y se enfrenta a auténticos villanos.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/10/78745.jpg " ,
-      "texto" : " Boku no Hero Academia "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+      "texto" : "boku no hero academia"
     },
-    "start_date" : " 3 de abril de 2016 "
+    "start_date" : "3 de abril de 2016"
   },
 
   {
-    "estudio" : "Toei Animation " ,
+    "estudio" : "toei animation",
     "generos" : [
-      " Acción " ,
-      " Aventura" ,
-      " Fantasía "
+      "accion",
+      "aventura",
+      "fantasia"
     ],
     
-    "description" : "La serie se centra en un grupo de jóvenes guerreros denominados «caballeros» (o «santos»), cuyo protagonista principal es Seiya (caballero que porta la armadura de Pegaso). Estos guerreros luchan del lado de la diosa griega Athena reencarnada en la humana Saori Kido para proteger a la humanidad de las fuerzas del mal que quieren dominar la Tierra. Para sus batallas, cada caballero utiliza su energía interior ligada al universo (el «cosmos»), sus técnicas especiales de lucha, y sus armaduras (originalmente llamada cloth), todas inspiradas en cada una de las 88 constelaciones.  " ,
+    "description" : "la serie se centra en un grupo de jóvenes guerreros denominados «caballeros» (o «santos»), cuyo protagonista principal es Seiya (caballero que porta la armadura de Pegaso). Estos guerreros luchan del lado de la diosa griega Athena reencarnada en la humana Saori Kido para proteger a la humanidad de las fuerzas del mal que quieren dominar la Tierra. Para sus batallas, cada caballero utiliza su energía interior ligada al universo (el «cosmos»), sus técnicas especiales de lucha, y sus armaduras (originalmente llamada cloth), todas inspiradas en cada una de las 88 constelaciones.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/9/28496.jpg " ,
-      "texto" : " Saint Seiya "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/9/28496.jpg",
+      "texto" : "saint seiya"
     },
-    "start_date" : " 11 de octubre de 1986"
+    "start_date" : "11 de octubre de 1986"
   },
 
   {
-    "estudio" : " Studio Blanc" ,
+    "estudio" : "studio blanc",
     "generos" : [
-      " Comedia "
+      "comedia"
     ],
   
-    "description" : "Uramichi Omata es una personalidad televisiva en un programa infantil. Pese a ser una persona afable en el programa, en privado es una persona emocionalmente inestable.  " ,
+    "description" :"uramichi Omata es una personalidad televisiva en un programa infantil. Pese a ser una persona afable en el programa, en privado es una persona emocionalmente inestable.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/1126/115635.jpg" ,
-      "texto" : " Uramichi Oniisan "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1126/115635.jpg",
+      "texto" : "uramichi oniisan"
     },
-    "start_date" : " 6 de julio de 2021 "
+    "start_date" : "6 de julio de 2021"
   },
 
   {
-    "estudio" : " CloverWorks " ,
+    "estudio" : "cloverworks",
     "generos" : [
-      " Acción " ,
-      " Aventura ",
-      "Fantasia",
-      " Magia ",
-      "Comedia"
+      "accion" ,
+      "aventura",
+      "fantasia",
+      "magia",
+      "comedia"
     ],
     
-    "description" : "La serie relata las aventuras del joven mago Natsu Dragneel y su gato parlante Happy que viajan juntos en busca del dragón Igneel, el cual Natsu declara que es su padre adoptivo, hasta que un día conocen a una chica llamada Lucy Heartfilia, una maga de espíritus celestiales. A lo largo de su búsqueda, se encargan de cumplir ciertas misiones que son asignadas en el gremio de magia Fairy Tail al cual pertenecen, y al mismo tiempo se enfrentan contra otros gremios clandestinos que buscan primordialmente el prestigio y la superioridad sobre Fairy Tail.  " ,
+    "description" : "la serie relata las aventuras del joven mago Natsu Dragneel y su gato parlante Happy que viajan juntos en busca del dragón Igneel, el cual Natsu declara que es su padre adoptivo, hasta que un día conocen a una chica llamada Lucy Heartfilia, una maga de espíritus celestiales. A lo largo de su búsqueda, se encargan de cumplir ciertas misiones que son asignadas en el gremio de magia Fairy Tail al cual pertenecen, y al mismo tiempo se enfrentan contra otros gremios clandestinos que buscan primordialmente el prestigio y la superioridad sobre Fairy Tail.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/manga/3/198604.jpg " ,
-      "texto" : " Fairy Tail "
+      "enlace" : "https://cdn.myanimelist.net/images/manga/3/198604.jpg",
+      "texto" : "fairy tail"
     },
-    "start_date" : " 12 de octubre 2009 "
+    "start_date" : "12 de octubre 2009"
   },
 
   {
-    "estudio" : "Ufotable  " ,
+    "estudio" : "ufotable",
     "generos" : [
-      " Acción " ,
-      " Drama ",
-      " Fantasia Oscura",
-      " Sobrenatural ",
-      "Historico"
+      "accion",
+      "drama",
+      "fantasia_oscura",
+      "sobrenatural",
+      "historico"
     ],
    
-    "description" : " Ambientada en la era Taisho, la historia se centra en Tanjirō Kamado, un joven inteligente y de buen corazón que vive con su familia en las montañas. Se ha convertido en la única fuente de ingresos de su familia tras el fallecimiento de su padre, haciendo viajes al pueblo cercano para vender carbón y vegetales. Sin embargo, toda su vida cotidiana cambia cuando en uno de estos viajes, regresa a casa solo para descubrir que su familia ha sido atacada y asesinada por un demonio, en la cual Tanjirō solo encuentra aun con vida a su hermana Nezuko como la única supervivientes del incidente, pero mientras trata de llevar Nezuko hasta el pueblo para que reciba atención medica, inesperadamente esta se despierta ya transformada en una demonio y trata de atacarlo, pero esta todavía aun guarda signos de emoción y pensamiento humanos.  " ,
+    "description" : "ambientada en la era Taisho, la historia se centra en Tanjirō Kamado, un joven inteligente y de buen corazón que vive con su familia en las montañas. Se ha convertido en la única fuente de ingresos de su familia tras el fallecimiento de su padre, haciendo viajes al pueblo cercano para vender carbón y vegetales. Sin embargo, toda su vida cotidiana cambia cuando en uno de estos viajes, regresa a casa solo para descubrir que su familia ha sido atacada y asesinada por un demonio, en la cual Tanjirō solo encuentra aun con vida a su hermana Nezuko como la única supervivientes del incidente, pero mientras trata de llevar Nezuko hasta el pueblo para que reciba atención medica, inesperadamente esta se despierta ya transformada en una demonio y trata de atacarlo, pero esta todavía aun guarda signos de emoción y pensamiento humanos.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/1286/99889.jpg " ,
-      "texto" : " Kitmesu no Yaiba "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+      "texto" : "kitmesu no yaiba"
     },
-    "start_date" : " 6 de abril de 2019 "
+    "start_date" : "6 de abril de 2019"
   },
 
   {
-    "estudio" : " Graphinica " ,
+    "estudio" : "graphinica",
     "generos" : [
-    " Acción " ,
-      " Drama" ,
-      " Sobrenatural "
+      "accion",
+      "drama",
+      "sobrenatural"
     ],
     
-    "description" : " El congreso del Valhalla, una reunión de todos los dioses del mundo celebrada cada 1000 años para decidir el destino de la humanidad, ha concluido en una votación casi unánime a favor de su completa extinción, tras siete millones de años de existencia. Las únicas en oponerse a este veredicto fueron las valquirias, cuya líder, Brünnhilde, recuerda al congreso que, en tal caso, los humanos cuentan con una última oportunidad: el Ragnarok, un torneo que enfrentaría a 12 humanos contra 12 dioses en combate individual. En el improbable caso de que los humanos consiguieran 7 victorias, se les permitiría vivir por 1000 años más. Así da comienzo a una serie de batallas donde los más grandes hombres de la historia, vinculados con las hermanas valquirias a través del volund, se opondrán a las deidades más poderosas con el objetivo de asegurar la salvación de la humanidad. " ,
+    "description" : "el congreso del Valhalla, una reunión de todos los dioses del mundo celebrada cada 1000 años para decidir el destino de la humanidad, ha concluido en una votación casi unánime a favor de su completa extinción, tras siete millones de años de existencia. Las únicas en oponerse a este veredicto fueron las valquirias, cuya líder, Brünnhilde, recuerda al congreso que, en tal caso, los humanos cuentan con una última oportunidad: el Ragnarok, un torneo que enfrentaría a 12 humanos contra 12 dioses en combate individual. En el improbable caso de que los humanos consiguieran 7 victorias, se les permitiría vivir por 1000 años más. Así da comienzo a una serie de batallas donde los más grandes hombres de la historia, vinculados con las hermanas valquirias a través del volund, se opondrán a las deidades más poderosas con el objetivo de asegurar la salvación de la humanidad.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/1456/115123.jpg " ,
-      "texto" : " Shuumatsu no Vallkyrie "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1456/115123.jpg",
+      "texto" : "shuumatsu no vallkyrie"
     },
     "start_date" : "17 de junio de 2021"
   },
 
   {
-    "estudio" : " Toei Animation" ,
+    "estudio" : "toei animation",
     "generos" : [
-      " Acción ",
-      "Aventura",
-      " Fantasia",
-      " Comedia "
+      "accion",
+      "aventura",
+      "fantasia",
+      "comedia"
       
     ],
     
-    "description" : "La serie comienza con la ejecución de Gol D. Roger, un hombre conocido como El Rey de los Piratas (海賊王 Kaizoku-Ō?). Justo antes de su muerte, Roger hace mención de su gran tesoro legendario, el One Piece (ワンピース『ひとつなぎの大秘宝』 Wan Pīsu?) y que puede ser tomado por quien lo encuentre. Esto marca el inicio de una era conocida como la Gran Era Pirata (大海賊時代 Daikaizokujidai?). Como resultado, un sin número de piratas zarparon hacia el Grand Line con el objetivo de encontrarlo.Más de veinte años después de la muerte de Roger, el One Piece sigue sin ser encontrado. Un joven llamado Monkey D. Luffy, inspirado por la admiración que desde su infancia le tiene al poderoso pirata Shanks el Pelirrojo,8​ comienza su aventura desde su hogar en el mar East Blue para encontrar el One Piece y autoproclamarse a él mismo como el nuevo Rey de los Piratas. Con el fin de crear y convertirse en el capitán de una tripulación propia, el muchacho funda los Piratas de Sombrero de Paja (麦わら海賊団篇 Mugiwara Kaizoku-dan?), siendo el espadachín Roronoa Zoro el primer nakamaNota 1​9​ que Luffy rescata y alista,10​ lo que permite que ambos continúen emprendiendo su viaje hacia el tesoro. Poco después, Nami, una navegante ladrona,11​ Usopp, un francotirador mentiroso,12​ y Sanji, un cocinero enamoradizo de las mujeres se les unen en sus travesías,13​ además de conseguir un barco llamado el Going Merry. En sus viajes, la tripulación se enfrenta a varios enemigos poderosos como Buggy el Payaso,14​ el Capitán Kuro,15​ Don Krieg.16​ o el hombre-pez Arlong.17​ El grupo logra arribar a Loguetown, un pueblo porteño, y Luffy conoce a un oficial de la Marina llamado Smoker, quien posee la habilidad de transformarse en humo y pretende capturarlo, pero es detenido por un hombre llamado Dragon " ,
+    "description" : "la serie comienza con la ejecución de Gol D. Roger, un hombre conocido como El Rey de los Piratas (海賊王 Kaizoku-Ō?). Justo antes de su muerte, Roger hace mención de su gran tesoro legendario, el One Piece (ワンピース『ひとつなぎの大秘宝』 Wan Pīsu?) y que puede ser tomado por quien lo encuentre. Esto marca el inicio de una era conocida como la Gran Era Pirata (大海賊時代 Daikaizokujidai?). Como resultado, un sin número de piratas zarparon hacia el Grand Line con el objetivo de encontrarlo.Más de veinte años después de la muerte de Roger, el One Piece sigue sin ser encontrado. Un joven llamado Monkey D. Luffy, inspirado por la admiración que desde su infancia le tiene al poderoso pirata Shanks el Pelirrojo,8​ comienza su aventura desde su hogar en el mar East Blue para encontrar el One Piece y autoproclamarse a él mismo como el nuevo Rey de los Piratas. Con el fin de crear y convertirse en el capitán de una tripulación propia, el muchacho funda los Piratas de Sombrero de Paja (麦わら海賊団篇 Mugiwara Kaizoku-dan?), siendo el espadachín Roronoa Zoro el primer nakamaNota 1​9​ que Luffy rescata y alista,10​ lo que permite que ambos continúen emprendiendo su viaje hacia el tesoro. Poco después, Nami, una navegante ladrona,11​ Usopp, un francotirador mentiroso,12​ y Sanji, un cocinero enamoradizo de las mujeres se les unen en sus travesías,13​ además de conseguir un barco llamado el Going Merry. En sus viajes, la tripulación se enfrenta a varios enemigos poderosos como Buggy el Payaso,14​ el Capitán Kuro,15​ Don Krieg.16​ o el hombre-pez Arlong.17​ El grupo logra arribar a Loguetown, un pueblo porteño, y Luffy conoce a un oficial de la Marina llamado Smoker, quien posee la habilidad de transformarse en humo y pretende capturarlo, pero es detenido por un hombre llamado Dragon",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/6/73245.jpg " ,
-      "texto" : " One Piece"
+      "enlace" : "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+      "texto" : "one piece"
     },
-    "start_date" : " 20 de octubre 1999"
+    "start_date" : "20 de octubre 1999"
   },
 
   {
-    "estudio" : " Lerche " ,
+    "estudio" : "lerche",
     "generos" : [
-      " Drama " ,
-      " Yaoi " ,
-      " Romance " ,
-      "Musical  "
+      "drama",
+      "yaoi",
+      "romance",
+      "musical"
     ],
     
-    "description" : "El estudiante de preparatoria Ritsuka Uenoyama es el guitarrista de The Seasons, una banda compuesta por el bajista Haruki Nakayama y el baterista Akihiko Kaji. Tras sus súplicas, Uenoyama se convierte en un renuente profesor de guitarra para Mafuyu Satō (un tímido compañero de instituto) después de reparar las cuerdas rotas de su Gibson ES-330. Ritsuka rápidamente se percata que Mafuyu es un cantante excepcionalmente talentoso, y lo invita a unirse a la banda sin tener en cuenta su pasado. " ,
+    "description" : "el estudiante de preparatoria Ritsuka Uenoyama es el guitarrista de The Seasons, una banda compuesta por el bajista Haruki Nakayama y el baterista Akihiko Kaji. Tras sus súplicas, Uenoyama se convierte en un renuente profesor de guitarra para Mafuyu Satō (un tímido compañero de instituto) después de reparar las cuerdas rotas de su Gibson ES-330. Ritsuka rápidamente se percata que Mafuyu es un cantante excepcionalmente talentoso, y lo invita a unirse a la banda sin tener en cuenta su pasado.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/1666/102238.jpg " ,
-      "texto" : " Given "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1666/102238.jpg",
+      "texto" : "given"
     },
-    "start_date" : " 20 de septiembre 2019 "
+    "start_date" : "20 de septiembre 2019"
   },
 
   {
-    "estudio" : " DEEN " ,
+    "estudio" : "deen",
     "generos" : [
-      " Comedia " ,
-      " Drama " ,
-      " Yaoi ",
-      "Romance"
+      "comedia" ,
+      "drama",
+      "yaoi",
+      "romance"
     ],
     
-    "description" :"La trama de Junjō Romantica se desarrolla alrededor de tres parejas principales: «la romántica», «la egoísta» y «la terrorista». La «pareja romántica» trata acerca de la relación entre el famoso novelista Akihiko Usami y el estudiante universitario Misaki Takahashi. A petición del hermano mayor de Misaki, Takahiro —quien es un amigo de la preparatoria de Akihiko—, Akihiko acepta ser su tutor con el fin de ayudarlo a ingresar a la Universidad Mitsuhashi. Luego de una primera mala impresión y un tumultoso intercambio de palabras, ambos comienzan a mejorar su relación hasta el punto de pasar de profesor/alumno a amantes.",
+    "description" :"la trama de Junjō Romantica se desarrolla alrededor de tres parejas principales: «la romántica», «la egoísta» y «la terrorista». La «pareja romántica» trata acerca de la relación entre el famoso novelista Akihiko Usami y el estudiante universitario Misaki Takahashi. A petición del hermano mayor de Misaki, Takahiro —quien es un amigo de la preparatoria de Akihiko—, Akihiko acepta ser su tutor con el fin de ayudarlo a ingresar a la Universidad Mitsuhashi. Luego de una primera mala impresión y un tumultoso intercambio de palabras, ambos comienzan a mejorar su relación hasta el punto de pasar de profesor/alumno a amantes.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/7/8811.jpg " ,
-      "texto" : "Junjou Romantica "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/7/8811.jpg",
+      "texto" : "junjou romantica"
     },
-    "start_date" : " 10 de abril 2008 "
+    "start_date" : "10 de abril 2008"
   },
 
   {
-    "estudio" : " Grizzly " ,
+    "estudio" : "grizzly",
     "generos" : [
-      " Yaoi " ,
-      " Comedia " ,
-      " Romance " 
+      "yaoi",
+      "comedia",
+      "romance" 
     ],
   
-    "description" : "Takashi Tōno es un estudiante de primer año que es transferido de Tokio a una escuela solo para hombres, la Academia Morimori, la cual se encuentra rodeada de montañas. Al poco tiempo de llegar, traba amistad con el amigable Kyōusuke Yaguchi, pero la falta de interés de Tōno por los deportes le obligan a entrar al club más tranquilo de todos; el club de fotografía, en lugar de entrar junto a Yaguchi al club de fútbol. Sin embargo, pronto descubrirá que el club no es lo que parece y que en realidad los integrantes de este se dedican a tener relaciones sexuales con los demás estudiantes de la escuela, razón por lo cual el club es también llamado Yarichin Bitch Club",
+    "description" : "takashi Tōno es un estudiante de primer año que es transferido de Tokio a una escuela solo para hombres, la Academia Morimori, la cual se encuentra rodeada de montañas. Al poco tiempo de llegar, traba amistad con el amigable Kyōusuke Yaguchi, pero la falta de interés de Tōno por los deportes le obligan a entrar al club más tranquilo de todos; el club de fotografía, en lugar de entrar junto a Yaguchi al club de fútbol. Sin embargo, pronto descubrirá que el club no es lo que parece y que en realidad los integrantes de este se dedican a tener relaciones sexuales con los demás estudiantes de la escuela, razón por lo cual el club es también llamado Yarichin Bitch Club",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/1431/91369.jpg  " ,
-      "texto" : " Yarichin Bitch Club"
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1431/91369.jpg",
+      "texto" : "yarichin bitch club"
     },
     "start_date" : "21 de septiembre de 2018"
   },
 
   {
-    "estudio" : "  Studio Hokiboshi " ,
+    "estudio" : "studio hokiboshi",
     "generos" : [
-      " Fantasía " ,
-      " Yaoi "
+      "fantasia",
+      "yaoi"
     ],
     
-    "description" : "La historia comienza cuando el hombre sin rumbo en la vida, Toshiaki Gozu, es asesinado y resucita en un nuevo mundo como un personaje secundario dentro de un videojuego que había estado jugando en su otra vida. Gozu se topa con el Rey Demonio Evelogia, el último jefe del juego a quien Gozu admira desde que era pequeño. Gozu comienza a cortejar a Evelogia al admitirle: “Estoy enamorado de ti”, y así comienzan su camino hacia la dominación mundial." ,
+    "description" : "la historia comienza cuando el hombre sin rumbo en la vida, Toshiaki Gozu, es asesinado y resucita en un nuevo mundo como un personaje secundario dentro de un videojuego que había estado jugando en su otra vida. Gozu se topa con el Rey Demonio Evelogia, el último jefe del juego a quien Gozu admira desde que era pequeño. Gozu comienza a cortejar a Evelogia al admitirle: “Estoy enamorado de ti”, y así comienzan su camino hacia la dominación mundial.",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/anime/1078/116972.jpg" ,
-      "texto" : " Maou Evelogia Ni Mi Wo Sasage Yo "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/1078/116972.jpg",
+      "texto" : "maou evelogia ni mi wo sasage yo"
     },
-    "start_date" : " 30 de septiembre 2021 "
+    "start_date" : "30 de septiembre 2021"
   },
 
   {
-    "estudio" : " Passione " ,
+    "estudio" : "passione",
     "generos" : [
-      " Romance " ,
-      " Drama " ,
-      " Yuri "
+      "romance",
+      "drama",
+      "yuri"
     ],
    
-    "description" : "Yuzu Aihara es una autoproclamada gyaru que, tras el reciente matrimonio de su madre, debe mudarse y junto con ello, asistir a una nueva escuela. Preocupada sobre lucir bien y conseguir un novio en su primer día, Yuzu se entera de que es una conservadora academia sólo para chicas; además, consigue rápidamente problemas con la presidenta del consejo estudiantil, Mei Aihara, quien parece ser la estudiante perfecta. Tras descubrir la secreta relación de Mei con un profesor, Yuzu regresa a su casa para enterarse de que además Mei es su nueva hermanastra, por la cual también comienza a tener sentimientos más allá de ser hermanastras. " ,
+    "description" : "yuzu Aihara es una autoproclamada gyaru que, tras el reciente matrimonio de su madre, debe mudarse y junto con ello, asistir a una nueva escuela. Preocupada sobre lucir bien y conseguir un novio en su primer día, Yuzu se entera de que es una conservadora academia sólo para chicas; además, consigue rápidamente problemas con la presidenta del consejo estudiantil, Mei Aihara, quien parece ser la estudiante perfecta. Tras descubrir la secreta relación de Mei con un profesor, Yuzu regresa a su casa para enterarse de que además Mei es su nueva hermanastra, por la cual también comienza a tener sentimientos más allá de ser hermanastras.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/11/89985.jpg" ,
-      "texto" : " Citrus "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/11/89985.jpg",
+      "texto" : "citrus"
     },
     "start_date" : "6 de enero de 2018" 
   },
 
   {
-    "estudio" : "Madhouse  " ,
+    "estudio" : "madhouse",
     "generos" : [
-      " Acción " ,
-      " Comedia " ,
-      " Ciencia ficción " 
+      "accion",
+      "comedia",
+      "ciencia_ficcion" 
       
     ],
    
-    "description" : " La historia tiene lugar en una metrópolis ficticia conocida como Ciudad Z, en Japón. El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y que causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño. Debido a esto, Saitama ha encontrado aburrida su fuerza y siempre está tratando de encontrar rivales más poderosos que le puedan igualar. En sus aventuras se encuentra con nuevos amigos, enemigos y su propio discípulo, el poderoso cíborg Genos, y se une a la Asociación de Héroes para ganar fama por todas sus acciones y para prevenir el mal. A pesar de derrotar a muchos más enemigos poderosos que los principales héroes, incluso los de la Asociación de Héroes, Saitama es incapaz de conseguir el reconocimiento de sus acciones en general. La mayoría de la gente lo discrimina por su apariencia física normal y algunos lo acusan de ser un héroe falso; así mismo los guerreros más fuertes lo discriminan basados en la falta de reconocimientos por la asociación de héroes sin tener idea que es más fuerte que todos. Solo un pequeño número de individuos conocen su increíble talento y humildad hacia los demás " ,
+    "description" : "la historia tiene lugar en una metrópolis ficticia conocida como Ciudad Z, en Japón. El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y que causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño. Debido a esto, Saitama ha encontrado aburrida su fuerza y siempre está tratando de encontrar rivales más poderosos que le puedan igualar. En sus aventuras se encuentra con nuevos amigos, enemigos y su propio discípulo, el poderoso cíborg Genos, y se une a la Asociación de Héroes para ganar fama por todas sus acciones y para prevenir el mal. A pesar de derrotar a muchos más enemigos poderosos que los principales héroes, incluso los de la Asociación de Héroes, Saitama es incapaz de conseguir el reconocimiento de sus acciones en general. La mayoría de la gente lo discrimina por su apariencia física normal y algunos lo acusan de ser un héroe falso; así mismo los guerreros más fuertes lo discriminan basados en la falta de reconocimientos por la asociación de héroes sin tener idea que es más fuerte que todos. Solo un pequeño número de individuos conocen su increíble talento y humildad hacia los demás",
     "titulo" : {
-      "enlace" : "https://cdn.myanimelist.net/images/manga/3/80661.jpg " ,
-      "texto" : " One Puch Man "
+      "enlace" : "https://cdn.myanimelist.net/images/manga/3/80661.jpg",
+      "texto" : "one puch man"
     },
-    "start_date" : " 14 de junio de 2012 "
+    "start_date" : "14 de junio de 2012"
   },
 
   {
-    "estudio" : " Bones " ,
+    "estudio" : "bones",
     "generos" : [
-      " Acción  " ,
-      " Aventura  " ,
-      " Romance" ,
-      " Comedia",
-      "Sobrenatural"
+      "accion",
+      "aventura",
+      "romance",
+      "comedia",
+      "sobrenatural"
     ],
   
-    "description" : "Yato es un dios menor que sueña con tener una gran cantidad de seguidores que lo adoren y recen plegarias por él. Desafortunadamente, su sueño está lejos de hacerse realidad, debido a que no tiene ni siquiera un solo santuario dedicado a su persona. Para empeorar las cosas, la única socia que tenía para ayudar a resolver los problemas de la gente acaba de renunciar. Su divina suerte sólo parece cambiar cuando conoce a Hiyori Iki, una estudiante de secundaria. Tras verse involucrada en un accidente, Hiyori se convierte en una han'yō. Involucrada en un lío bastante grande, la joven decide quedarse con Yato hasta que consiga recuperar su antiguo estado como humana. Junto a Hiyori y su nuevo shinki (tesoro sagrado o regalía) Yukine, Yato hará todo lo posible para ganar fama, reconocimiento y sólo tal vez, un santuario dedicado a él. " ,
+    "description" : "yato es un dios menor que sueña con tener una gran cantidad de seguidores que lo adoren y recen plegarias por él. Desafortunadamente, su sueño está lejos de hacerse realidad, debido a que no tiene ni siquiera un solo santuario dedicado a su persona. Para empeorar las cosas, la única socia que tenía para ayudar a resolver los problemas de la gente acaba de renunciar. Su divina suerte sólo parece cambiar cuando conoce a Hiyori Iki, una estudiante de secundaria. Tras verse involucrada en un accidente, Hiyori se convierte en una han'yō. Involucrada en un lío bastante grande, la joven decide quedarse con Yato hasta que consiga recuperar su antiguo estado como humana. Junto a Hiyori y su nuevo shinki (tesoro sagrado o regalía) Yukine, Yato hará todo lo posible para ganar fama, reconocimiento y sólo tal vez, un santuario dedicado a él.",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/9/77809.jpg " ,
-      "texto" : " Noragami "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/9/77809.jpg",
+      "texto" : "noragami"
     },
-    "start_date" : " 5 de enero 2014 "
+    "start_date" : "5 de enero 2014"
   },
   
   {
-    "estudio" : " Satelight (ep 1-4) Madhouse (ep. 5-7) Graphinica, Kelmadick (ep. 8-10) " ,
+    "estudio" : "satelight (ep 1-4) madhouse (ep. 5-7) graphinica, kelmadick (ep. 8-10)",
     "generos" : [
-      " Fantasia Oscura " ,
-      " Acción " 
+      "fantasia_oscura",
+      "accion" 
     ],
 
-    "description" : "Se centra alrededor de la Caballeros Protestantes Reales, que son una organización fundada por Abraham Van Hellsing y dirigida por sus descendientes. Su misión es proteger a la reina y las fronteras del país de toda amenaza sobrenatural. La organización está liderada por Sir Integra Fairbrook Wingates Hellsing, último miembro vivo de la familia, quien heredó su responsabilidad como directora después de la muerte de su padre, cuando tenía 12 años. Bajo su mandato están Walter C. Dornez y Alucard, un poderoso vampiro que fue capturado por la familia hace cien años. Más tarde se une también la expolicía Seras Victoria, que tras ser mordida por Alucard se convierte en su vástago y por extensión en un soldado de Hellsing . Después de un ataque sobre la oficina central de Hellsing por parte de los hermanos Valentine,3​ donde las tropas son totalmente masacradas, Sir Integra contrata al grupo de mercenarios Wild Geese para sustituir a los hombres perdidos en la batalla. El líder del grupo es el capitán Pip Bernadotte, un francés mujeriego. Durante la serie los personajes cometen todo tipo de atrocidades, como violación, mutilación, tortura o canibalismo " ,
+    "description" : "se centra alrededor de la Caballeros Protestantes Reales, que son una organización fundada por Abraham Van Hellsing y dirigida por sus descendientes. Su misión es proteger a la reina y las fronteras del país de toda amenaza sobrenatural. La organización está liderada por Sir Integra Fairbrook Wingates Hellsing, último miembro vivo de la familia, quien heredó su responsabilidad como directora después de la muerte de su padre, cuando tenía 12 años. Bajo su mandato están Walter C. Dornez y Alucard, un poderoso vampiro que fue capturado por la familia hace cien años. Más tarde se une también la expolicía Seras Victoria, que tras ser mordida por Alucard se convierte en su vástago y por extensión en un soldado de Hellsing . Después de un ataque sobre la oficina central de Hellsing por parte de los hermanos Valentine,3​ donde las tropas son totalmente masacradas, Sir Integra contrata al grupo de mercenarios Wild Geese para sustituir a los hombres perdidos en la batalla. El líder del grupo es el capitán Pip Bernadotte, un francés mujeriego. Durante la serie los personajes cometen todo tipo de atrocidades, como violación, mutilación, tortura o canibalismo",
     "titulo" : {
-      "enlace" : " https://cdn.myanimelist.net/images/anime/10/19956.jpg" ,
-      "texto" : " Hellsing "
+      "enlace" : "https://cdn.myanimelist.net/images/anime/10/19956.jpg",
+      "texto" : "hellsing"
     },
-    "start_date" : " 10 de octubre 2001 "
+    "start_date" : "10 de octubre 2001"
   }
 ]
