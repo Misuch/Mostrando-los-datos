@@ -118,7 +118,7 @@ function filtrosData(data){
     $("#btn-search").click((e)=>{
         
         // obtener lo que se escribio en el input
-        var name = $("#input-search").val();
+        var name = $("#input-search").val().toLowerCase();
         
         // verificar si lo escrito es diferente de vacio
         if(name != ""){
@@ -131,7 +131,7 @@ function filtrosData(data){
     // filtros
 
     function filtrosImg(name){
-        console.log(name)
+        console.log(nam)
         // iniciar ajax
             $.ajax({
                 type:"get",
