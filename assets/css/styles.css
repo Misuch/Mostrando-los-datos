@@ -60,20 +60,17 @@ header ul li{
     margin-left: 20px;
 }
 header ul li a {
-    font-weight: 700;
+    font-weight: 500;
     text-decoration: none;
     padding: 6px 15px;
     color: white;
     border-radius:20px;
-    font-family: 'Chilanka', cursive;
-    font-size: 20px;
-    padding-top: 10px;
-    padding-bottom: 4px;
 }
 header ul li a:hover,
 header ul li a.active{
     background-color: white;
     color: #8ab3f0;
+    box-shadow: 0 0 5px rgb(101, 81, 163);
 }
 /* .main {
     background-color: rgba(0, 0, 0, 0.575);
@@ -102,10 +99,12 @@ footer{
     font-weight: 700;
     font-size: 40px;
     letter-spacing: 10px;
+    text-shadow: 0 0 4px black;
 }
 .brand+p{
     font-weight: 500;
     font-family: "Poppins";
+    text-shadow: 0 0 4px black;
 }
 .social-media{
     width: 50%;
@@ -126,9 +125,10 @@ border: 1px solid #fff;
 }
 
 .social-media-icon:hover{
-    background: rgba(243, 243, 243, 0.282);
+    background: rgba(155, 80, 161, 0.616);
     color: #8ab3f0;
 }
+
 
 .social-media-icon i{
     font-size:30px;
@@ -148,7 +148,7 @@ border: 1px solid #fff;
     background-color: rgb(169, 131, 240);
     padding: 15px 20px;
     width: 94%;
-    margin:20px auto ;
+    margin: 40px auto;
     border-radius: 15px;
     display: flex ;
 
@@ -169,7 +169,7 @@ border: 1px solid #fff;
 }
 /* FILTROS */
 .filters_content{
-    margin:50px auto;
+    margin: 30px auto;
 }
 .filters-title{
     background-color: rgb(169, 131, 240);
@@ -216,11 +216,11 @@ border: 1px solid #fff;
 /* galeria */
 #gallery{
     font-family: "Escrito";
-    background-color: #8ab3f052;
+    background: linear-gradient(90deg, rgba(60, 174, 244, 0.746), rgba(122, 193, 255, 0.726), rgba(146, 207, 248, 0.86));
     display: flex;
     flex-wrap: wrap;
     width: 90%;
-    margin: 80px  auto  ;
+    margin: 50px  auto  ;
     text-align: center;
     border: 6px dashed white;
     justify-content: center;
