@@ -1,3 +1,4 @@
+// Menu
 const hamburger= document.querySelector("#nav-menu");
 const menu= document.querySelector("#menu");
 
@@ -13,43 +14,15 @@ window.addEventListener("click", e =>{
 
 })
 
-function showImage(data){
-    //Creando un string para etiqueta img
-    let img =$('<img>');
-    //Dando atributo a la etiqueta con la data que devuelve la api
-    img.attr('src',data.sprites.other['official-artwork'].front_default);
-    //Insertando la imagen a un contenedor
-    $('#pk-img').append(img);
-    //Creando una etiqueta p con el nombre
-    let texto = '<p>'+data.texto+'</p>';
-    //Insertando la etiqueta p en un contenedor
-    $('#pl-name').append(texto);
-}
+// Pop up
+const open = document.getElementById('open');
+const modal_container = document.getElementById('modal_container');
+const close = document.getElementById('close');
 
-function searchAnime(texto){
-    //Iniciando AJAX
-    $.ajax({
-        type: 'GET',
-        url: `https://fernandaamelitc.github.io/data-json-/animeData.json`,
-        dataType: 'json',
-        async: true,
-        success: function(data){
-            showImage(data);
-        }
-    })
+open.addEventListener('click', () => {
+    modal_container.classList.add('show');  
+});
 
-}
-
-//Iniciar Jquery
-$(document).ready(function(){
-    //Evento cuando se da click en el boton #btn-buscar
-    $("#btn-id").click(function(e){
-        //Obtener lo que se ha escrito en el input
-        var texto = $("#inputSearch").val().toLowerCase();
-        //Verificar si lo que se ha escrito es diferente que vacio
-        if(texto!=""){
-            //Llamar a la funcion para que se haga la busqueda con el nombre
-            searchAnime(texto);
-        }
-    })
-})
+close.addEventListener('click', () => {
+    modal_container.classList.remove('show');
+});

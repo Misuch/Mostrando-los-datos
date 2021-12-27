@@ -1,29 +1,22 @@
 
-// FUNCION DE LA  DATA
-function showDATA(data){
-    for(let i=0;i<data.length;i++){
-        let img = $("<img></img>");
-        let div = $("<div></div>");
-        let h3 = $("<h3>"+data[i].titulo.texto+"</h3>");
-        img.attr("src",data[i].titulo.enlace);
-        $(div).append(img)
-         $(div).append(h3);
-         $("#gallery").append(div);
-        $(div).addClass("items-g");
+// Mostrar la data
+    function showDATA(data){
+        for(let i=0;i<data.length;i++){
+            let img = $("<img></img>");
+            let div = $("<div></div>");
+            let h3 = $("<h3>"+data[i].titulo.texto+"</h3>");
+            img.attr("src",data[i].titulo.enlace);
+            $(div).append(img)
+            $(div).append(h3);
+            $("#gallery").append(div);
+            $(div).addClass("items-g");
 
 
     }
 
 }
-
+// iniciar jQuery
 $(document).ready(function(){
-
-
-    $("#select-filters").on("change", function () {
-        let selected = $("option:selected").val();
-        filtrosData(selected);
-    });
-    
 
     // ocultar en jquery .hide()
 
@@ -38,7 +31,7 @@ $(document).ready(function(){
         $("#btn-botones").show("slow")
     })
 
-    // api de json  --- agregando img
+    // Mostrar Animes de la DATA
     
     $.ajax({
     type:"GET",
@@ -51,7 +44,7 @@ $(document).ready(function(){
         
     })
     
-    // buscador
+    // buscador 
 
     // ajax
     function searchImg(name){
@@ -72,48 +65,57 @@ $(document).ready(function(){
                     }
                 }
                 
-                
                 },error:function(e){
                     console.log(e)
                 }
             });
     }
-// funcion buscador
-function searchData(data){
-    $("#gallery").empty();
-    let img = $("<img></img>");
-    let div = $("<div></div>");
-    let h3 = $("<h3>"+data.titulo.texto+"</h3>");
-    let p = $("<p>"+data.description+"</p>");
-    let h4 = $("<p>"+data.start_date+"</p>");
-    img.attr("src",data.titulo.enlace);
-    $(div).append(img)
-     $(div).append(h3);
-     $(div).append(h4) 
-     $(div).append(p)
-     $("#gallery").append(div);
-    $(div).addClass("items-g");
+    // funcion buscador y resultado
+    function searchData(data){
+        $("#gallery").empty();
+        let img = $("<img></img>");
+        let div = $("<div></div>");
+        let divStudi = $("<div></div>");
+        let divEmicion = $("<div></div>");
+        let h3 = $("<h3>"+data.titulo.texto+"</h3>");
+        let p = $("<p>"+data.description+"</p>");
+        let emi_ = $("<span>"+data.start_date+"</span>");
+        let studi_ = $("<span>"+data.estudio+"</span>");
+        let Emicion=$("<span>Emsion: </span>")
+        let studi=$("<span>Emsion: </span>")
+        img.attr("src",data.titulo.enlace);
+            $(div).append(img)
+            $(div).append(h3);
+            $(divEmicion).append(Emicion)
+            $(divEmicion).append(emi_) 
+            $(divStudi).append(studi)
+            $(divStudi).append(studi_)
+            $(div).append(divEmicion);
+            $(div).append(divStudi);
+            $("#gallery").append(div);
+            $(div).append(p)
+            
+            $(div).addClass("items-g");
+
+        
+    }
+    // funcion filtros
+    function filtrosData(data){
+        let img = $("<img></img>");
+        let div = $("<div></div>");
+        let h3 = $("<h3>"+data.titulo.texto+"</h3>");
+        let p = $("<p>"+data.description+"</p>");
+        let h4 = $("<p>"+data.start_date+"</p>");
+        img.attr("src",data.titulo.enlace);
+        $(div).append(img)
+        $(div).append(h3); 
+        $(div).append(p)
+        $("#gallery").append(div);
+        $(div).addClass("items-g");
 
     
 }
-// funcion filtros
-function filtrosData(data){
-    let img = $("<img></img>");
-    let div = $("<div></div>");
-    let h3 = $("<h3>"+data.titulo.texto+"</h3>");
-    let p = $("<p>"+data.description+"</p>");
-    let h4 = $("<p>"+data.start_date+"</p>");
-    img.attr("src",data.titulo.enlace);
-    $(div).append(img)
-     $(div).append(h3);
-     $(div).append(h4) 
-     $(div).append(p)
-     $("#gallery").append(div);
-    $(div).addClass("items-g");
-
-    
-}
-    // accion y jquery
+    // accion y jquery de Filtros
 
     $("#btn-search").click((e)=>{
         
@@ -128,7 +130,7 @@ function filtrosData(data){
     })
    
 
-    // filtros
+    // filtros data
 
     function filtrosImg(name){
         console.log(nam)
@@ -156,14 +158,18 @@ function filtrosData(data){
                     }
                 });
     }
-
-       
+    // filtros accion
+    $("#select-filters").on("change", function () {
+        let selected = $("option:selected").val();
+        filtrosData(selected);
+    });
+    
 
 
 
 
 })
 
-
+// Api de la data
 // url:"https://fernandaamelitc.github.io/data-json-/animeData.json",
 
