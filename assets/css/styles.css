@@ -70,7 +70,6 @@ header ul li a:hover,
 header ul li a.active{
     background-color: white;
     color: #8ab3f0;
-    box-shadow: 0 0 5px rgb(101, 81, 163);
 }
 /* .main {
     background-color: rgba(0, 0, 0, 0.575);
@@ -99,12 +98,10 @@ footer{
     font-weight: 700;
     font-size: 40px;
     letter-spacing: 10px;
-    text-shadow: 0 0 4px black;
 }
 .brand+p{
     font-weight: 500;
     font-family: "Poppins";
-    text-shadow: 0 0 4px black;
 }
 .social-media{
     width: 50%;
@@ -168,12 +165,10 @@ border: 1px solid #fff;
     margin-left:14px;
 }
 /* FILTROS */
-.filters_content{
-    margin: 30px auto;
-}
+
 .filters-title{
     background-color: rgb(169, 131, 240);
-    margin: 25px  25px 4px;
+    margin: 45px  40px 4px;
     width: 200px;
     display: flex;
     border-radius: 5px;
@@ -193,12 +188,12 @@ border: 1px solid #fff;
 /* btn de filtros */
 .filters-btn{
     background-color: rgb(182, 150, 240);
-    width: 90%;
-    margin: auto;
+    width: 180px;
     display:none;
     flex-wrap: wrap;
     padding: 15px;
-
+    margin-left: 60px;
+    border-radius: 20px;
 }
 .filters-btn button{
     background-color: rgba(211, 206, 220, 0);
@@ -216,7 +211,7 @@ border: 1px solid #fff;
 /* galeria */
 #gallery{
     font-family: "Escrito";
-    background: linear-gradient(90deg, rgba(60, 174, 244, 0.746), rgba(122, 193, 255, 0.726), rgba(146, 207, 248, 0.86));
+    background: rgba(137, 147, 241, 0.534);
     display: flex;
     flex-wrap: wrap;
     width: 90%;
@@ -230,11 +225,11 @@ border: 1px solid #fff;
 #gallery  .items-g h3{
     color: rgb(211, 75, 238);
     font-family: "Poppins";
-    font-size: 13px;
+    font-size: 14px;
     padding: 8px 4px; 
 }
  .items-g {
-    border: 5   px dotted #b596f0ad;
+    border: px dotted #b596f0ad;
     display: block;
     margin: 50px 36.5px;
     background-color: rgb(255, 255, 255);
@@ -250,7 +245,7 @@ border: 1px solid #fff;
 
 .modal-container {
     display: flex;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(128, 142, 180, 0.3);
     align-items: center;
     justify-content: center;
     position: fixed;
@@ -278,14 +273,36 @@ border: 1px solid #fff;
     text-align: center;
 }
 
-.modal h1 {
+.modal h1, button {
+    padding: 10px;
     margin: 0;
+    color: rgba(170, 110, 170, 0.644);
+    letter-spacing: 4px;
 } 
 
 .modal p {
+    padding: 15px;
     opacity: 0.7;
     font-size: 14px;
+    color: rgb(146, 142, 142);
 }
+/* info de anime */
+.items-g  div span {
+    color: rgb(167, 53, 161);
+    padding: 8px;
+}
+.items-g  div p {
+    color: rgb(128, 124, 128);
+    display: inline;
+    font-family: "Poppins";
+}
+.items-g p{
+    color: rgb(128, 124, 128);
+    display: inline;
+    font-family: "Poppins";
+    margin: auto;
+}
+
 /* responsive */
 
 @media screen and (max-width:860px) {

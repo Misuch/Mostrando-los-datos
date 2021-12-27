@@ -79,10 +79,10 @@ $(document).ready(function(){
         let divEmicion = $("<div></div>");
         let h3 = $("<h3>"+data.titulo.texto+"</h3>");
         let p = $("<p>"+data.description+"</p>");
-        let emi_ = $("<span>"+data.start_date+"</span>");
-        let studi_ = $("<span>"+data.estudio+"</span>");
-        let Emicion=$("<span>Emsion: </span>")
-        let studi=$("<span>Emsion: </span>")
+        let emi_ = $("<p>"+data.start_date+"</p>");
+        let studi_ = $("<p>"+data.estudio+"</p>");
+        let Emicion=$("<span>Emsion : </span>")
+        let studi=$("<span>Estudio : </span>")
         img.attr("src",data.titulo.enlace);
             $(div).append(img)
             $(div).append(h3);
