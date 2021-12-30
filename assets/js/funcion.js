@@ -133,7 +133,7 @@ $(document).ready(function(){
     // filtros data
 
     function filtrosImg(name){
-        console.log(nam)
+        
         // iniciar ajax
             $.ajax({
                 type:"get",
@@ -144,12 +144,18 @@ $(document).ready(function(){
                     $("#gallery").empty();
                     for(let i=0;i<data.length;i++){
                        
-                        
-                       for(let e=0;e<data[i].generos.length;i++){
-                            if(data[i].generos[e]==name){
-                                filtrosData(data[i])
-                            }
-                       }
+                        var cantidad=data[i].generos.length;
+                    //      for(let e=0;e<cantidad;i++){
+                    //         var genero=data[i].generos[e];
+                    //         if(genero==name){
+                    //             filtrosData(data[i])
+                    //         }
+                    //    }
+                        data[i].generos.forEach(function(element){
+                            if(element==name){
+                                    filtrosData(data[i])
+                                }
+                        })
                     }
                     
                     
@@ -161,7 +167,22 @@ $(document).ready(function(){
     // filtros accion
     $("#select-filters").on("change", function () {
         let selected = $("option:selected").val();
-        filtrosData(selected);
+        if(selected == "todo"){
+            $.ajax({
+                type:"GET",
+                url:"https://fernandaamelitc.github.io/data-json-/animeData.json",
+                dataType:"json",
+                async:true,
+                success:function(data){ 
+                        $("#gallery").empty();
+                        showDATA(data)
+                    }
+                    
+                })
+        }else{
+        filtrosImg(selected);
+            
+        }
     });
     
 
